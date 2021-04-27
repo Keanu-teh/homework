@@ -4,12 +4,12 @@
 ## Hello World! 
 ### Hello World! 
 --------------------
-[https://github.com/Keanu-teh/homework/edit/main/test.md]
+这是一个通向[test.md](https://github.com/Keanu-teh/homework/edit/main/test.md)的链接
 
 ~~BAIDU.COM~~
 <u>带下划线de文本</u>
 
-创建脚注格式类似这样 [^RUNOOB]!!!
+创建脚注格式类似这样 [^RUNOOB]。
 [^RUNOOB]: 学的不仅是技术，更是梦想！！！
 
 * 1
@@ -69,4 +69,4 @@ $(document).ready(function () {
   [1]: http://www.google.com/
   [runoob]: http://www.runoob.com/
 
-![alt what the hell](3.JPG)
+![alt what the hell](http://static.homework.com/images/runoob-logo.png)

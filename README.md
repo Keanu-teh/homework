@@ -6,10 +6,18 @@
 --------------------
 这是一个通向[test.md](https://github.com/Keanu-teh/homework/edit/main/test.md)的链接
 
+*斜体文本*
+_斜体文本_
+**粗体文本**
+__粗体文本__
+***粗斜体文本***
+___粗斜体文本___
+
 ~~BAIDU.COM~~
 <u>带下划线de文本</u>
 
 创建脚注格式类似这样 [^RUNOOB]。
+
 [^RUNOOB]: 学的不仅是技术，更是梦想！！！
 
 * 1
@@ -70,3 +78,23 @@ $(document).ready(function () {
   [runoob]: http://www.runoob.com/
 
 ![alt what the hell](https://github.com/Keanu-teh/homework/blob/main/3.JPG)
+
+|  头   | 头  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
+
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
+
+<b>粗</b>  
+<i>斜</i>  
+<kbd>lalala</kbd>   
+<em>what</em>  
+<sup>eee</sup>  
+<sub>aaa</sub>  
+<br>sss</br>  
+<del>delete</del>  
+<hr/>hhhhh
